@@ -11,7 +11,7 @@
 	
 	<groupId>br.com.appfisio</groupId>
 	<artifactId>appfisio-api</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	
 	<name>appfisio-api</name>
 	<description>API do projeto AppFisio</description>
